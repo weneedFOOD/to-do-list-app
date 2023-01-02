@@ -33,4 +33,3 @@ function newItem () {
     // 4. Reordering the items
     list.sortable();
 }
-
