@@ -10,7 +10,7 @@ padding: 20px;
 width: 300px;
 margin: 0 auto;
 margin-top: 40px;
-background: #ceddfa;
+background: #8eade9;
 border-radius: 5px;}
 
 form {
@@ -37,7 +37,7 @@ opacity: .8;}
 
 ol {padding-left: 20px;}
 
-ol li {padding: 5px;color:#606060;}
+ol li {padding: 5px;color:#ffe078;}
 
 ol li:nth-child(even){background: #919191;}
 
